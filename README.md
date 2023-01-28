@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src=""  alt="Logo">
+<img src=".img\BMI-Calculator"  alt="Logo">
 </p>
 
 <br>
