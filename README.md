@@ -1,18 +1,5 @@
-<h1 align="center">
-
 <br>
-
-<p align="center">
-<img src=".img\BMI-Calculator"  alt="Logo">
-</p>
-
-<br>
-
-<br>
-
-</h1>
-
-<h4 align="center">Project title</h4>
+<h1 align="center">Kalkulator BMI </h1>
 
 <p align="center">
   <a >
@@ -21,45 +8,14 @@
   </a>
 </p>
 
-## Project Overview 🎉
+## Opis projektu 
+  Prosty kalkulator BMI w oparciu o technlogie klasyczne, HTML, CSS oraz JS,
 
-## Tech/framework used 🔧
+## Użyte technologie/języki
 
-| Tech                                                    | Description                              |
+| Technologia                                             | Zadanie                                  |
 | ------------------------------------------------------- | ---------------------------------------- |
-| [X](X)                           | XYZ   |
-| [X](X)                           | XYZ   |
-| [X](X)                           | XYZ   |
+| [HTML](HTML)                        | Struktura całej strony |
+| [CSS](CSS)                          | Odpowiada za szatę graficzną |
+| [JS](JS)                            | Odpowiada za część skryptową |
 
-
-## Screenshots 📺
-
-<p align="center">
-    <img src="" alt="Screenshot">
-</p>
-
-<p align="center">
-    <img src="" alt="Screenshot">
-</p>
-
-<p align="center">
-    <img src="" alt="Screenshot">
-</p>
-
-## Code Example/Issues 🔍
-
-
-## Installation 💾
-
-## Available scripts
-
-| Command                   | Description                   |     |
-| ------------------------- | ----------------------------- | --- |
-| `npm run start`           | Open local server             |     |
-| `npm run build`           | Create optimized build        |     |
-| `npm run test`            | Run tests                     |     |
-
-
-## Live 📍
-
-## License 🔱
