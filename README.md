@@ -3,13 +3,19 @@
 
 <p align="center">
   <a >
-    <img src=""
-         alt="Screenshot">
+    <img src="img/BMI-Calculator.png"
+         alt="Screenshot" width="30%" height="30%">
   </a>
 </p>
 
 ## Opis projektu 
-  Prosty kalkulator BMI w oparciu o technlogie klasyczne, HTML, CSS oraz JS,
+  <a>Prosty kalkulator BMI w oparciu o technlogie klasyczne, HTML, CSS oraz JS</a>
+  
+## Screenshoty
+  <br></br>
+  <p>
+    <img src="img/screen1.png" alt="screenshot">
+  </p>
 
 ## Użyte technologie/języki
 
@@ -18,4 +24,3 @@
 | [HTML](HTML)                        | Struktura całej strony |
 | [CSS](CSS)                          | Odpowiada za szatę graficzną |
 | [JS](JS)                            | Odpowiada za część skryptową |
-
