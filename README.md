@@ -14,7 +14,7 @@
 ## Screenshoty
   <br></br>
   <p>
-    <img src="img/screen1.png" alt="screenshot">
+    <img src="img/screen1.PNG" alt="screenshot">
   </p>
 
 ## Użyte technologie/języki
