@@ -1,10 +1,21 @@
+<br>
+<h1 align="center">Kalkulator BMI </h1>
 
-# Project Title
+<p align="center">
+  <a >
+    <img src=""
+         alt="Screenshot">
+  </a>
+</p>
 
-A brief description of what this project does and who it's for
+## Opis projektu 
+  Prosty kalkulator BMI w oparciu o technlogie klasyczne, HTML, CSS oraz JS,
 
+## Użyte technologie/języki
 
-## 🚀 O mnie 
-Cześć, 
-nazywam się Robert. Od czasów technikum fascynowało mnie programowanie. Powoli mały krokami staram się wchodzić w świat front-endu. Tu będę zamieszczał swoje repo :)
+| Technologia                                             | Zadanie                                  |
+| ------------------------------------------------------- | ---------------------------------------- |
+| [HTML](HTML)                        | Struktura całej strony |
+| [CSS](CSS)                          | Odpowiada za szatę graficzną |
+| [JS](JS)                            | Odpowiada za część skryptową |
 
