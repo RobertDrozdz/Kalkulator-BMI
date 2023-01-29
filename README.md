@@ -13,7 +13,7 @@
   
 ## Screenshoty
   <br></br>
-  <p>
+  <p align="center">
     <img src="img/screen1.PNG" alt="screenshot">
   </p>
 
